@@ -7,6 +7,7 @@ Junior QA/AQA Engineer focused on Java test automation for API, web and Android 
 
 | Проект | Что можно посмотреть | Основной стек |
 |---|---|---|
+| [JUnit 5 и TestNG](https://github.com/rootofevi1/java-unit-testing-basics) | Модульные тесты, параметризация, граничные данные, исключения и сьюты | Java 21, JUnit 5, TestNG, Gradle |
 | [Reqres API](https://github.com/rootofevi1/api-testing-reqres) | Один набор API-операций с тремя клиентами, DTO и проверки ответов | Java 21, OkHttp, REST Assured, Retrofit, JUnit 5 |
 | [SauceDemo UI](https://github.com/rootofevi1/ui-testing-saucedemo) | Авторизация, корзина, оформление заказа, сценарии Gherkin | Java 21, Selenide, Cucumber, Allure |
 | [Android Espresso](https://github.com/rootofevi1/android-espresso-ui-tests) | Навигация, ориентация, Intent, Toast и Toolbar | Java 11, Espresso, JUnit 4, AndroidX Test |
