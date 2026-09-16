@@ -23,6 +23,26 @@ Junior QA/AQA Engineer focused on Java test automation for API, web and Android 
 | [Java ООП](https://github.com/rootofevi1/java-oop-exercises) | Наследование, интерфейсы, Stream API, пул потоков и собственный итератор | Java 21, Gradle, ExecutorService |
 | [Основы Java](https://github.com/rootofevi1/java-core-exercises) | 10 консольных программ: алгоритмы, массивы, строки, файлы и коллекции | Java 21, Gradle, Stream API |
 
+## SQL и PostgreSQL
+
+87 SQL-файлов в девяти учебных проектах: выборки, изменение данных, аналитика,
+индексы и транзакции. У каждого проекта есть README, отдельная синтетическая демобаза
+и проверка запуска в PostgreSQL 17 через GitHub Actions.
+
+| Проект | Что можно посмотреть |
+|---|---|
+| [Основы SQL: выборки и фильтрация](https://github.com/rootofevi1/sql-query-fundamentals) | SELECT, WHERE, BETWEEN, DISTINCT, CASE и скалярные подзапросы |
+| [SQL: операции над множествами и JOIN](https://github.com/rootofevi1/sql-set-operations-and-joins) | UNION, UNION ALL, INTERSECT, EXCEPT ALL, JOIN, NOT EXISTS |
+| [SQL: сложные соединения и CTE](https://github.com/rootofevi1/sql-joins-and-cte) | LEFT/FULL/SELF JOIN, WITH, generate_series, COALESCE, INTERSECT |
+| [SQL: изменение данных и CRUD-сценарии](https://github.com/rootofevi1/sql-data-manipulation) | INSERT, INSERT SELECT, UPDATE, DELETE, CTE и подзапросы |
+| [PostgreSQL: представления и материализованные снимки](https://github.com/rootofevi1/postgresql-views-and-snapshots) | VIEW, MATERIALIZED VIEW, REFRESH, generate_series и EXCEPT |
+| [PostgreSQL: индексы и планы запросов](https://github.com/rootofevi1/postgresql-indexes-and-plans) | B-tree, составные, функциональные, уникальные и частичные индексы; EXPLAIN ANALYZE |
+| [PostgreSQL: скидки, ограничения и последовательности](https://github.com/rootofevi1/postgresql-discounts-and-constraints) | DDL, FOREIGN KEY, CHECK, DEFAULT, UNIQUE, ROW_NUMBER и SEQUENCE |
+| [SQL: аналитические запросы и агрегаты](https://github.com/rootofevi1/sql-analytics-and-aggregations) | GROUP BY, HAVING, COUNT, AVG, MIN/MAX, CTE и UNION ALL |
+| [PostgreSQL: транзакции и уровни изоляции](https://github.com/rootofevi1/postgresql-transactions-and-isolation) | BEGIN/COMMIT, READ COMMITTED, REPEATABLE READ, SERIALIZABLE и deadlock |
+
+Для знакомства с навыками QA: [целостность данных](https://github.com/rootofevi1/postgresql-discounts-and-constraints), [JOIN и поиск пропусков](https://github.com/rootofevi1/sql-joins-and-cte), [транзакции](https://github.com/rootofevi1/postgresql-transactions-and-isolation).
+
 ## Что практикую
 
 - Подбор позитивных, граничных и ошибочных входных данных.
